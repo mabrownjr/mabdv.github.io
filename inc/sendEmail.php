@@ -63,6 +63,9 @@ if($_POST) {
 		echo $response;
 
 	} # end if - there was a validation error
+	
+	//send email
+    mail($siteOwnersEmail , $subject .$email, $contact_message);
 
 }
 
