@@ -186,7 +186,7 @@ ul#nav li.current a { color: #F06000; }
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
-#containter {
+.containter {
 	border-radius: 25px;
 }
 
