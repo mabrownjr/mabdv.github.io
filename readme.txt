@@ -10,10 +10,6 @@ Icons:
  - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
  - Fontello (http://fontello.com/)
 
-Stock Photos and Graphics:
- - UnSplash.com (http://unsplash.com/)
- - Morguefile.com (http://www.morguefile.com/)
-
 Javascript Files:
 
  - JQuery (http://jquery.com/)
