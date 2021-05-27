@@ -13,7 +13,6 @@ Icons:
 Javascript Files:
 
  - JQuery (http://jquery.com/)
- - FlexSlider by Woothemes (http://www.woothemes.com/flexslider/)
  - Modernizr (http://modernizr.com/)
  - FitText (http://fittextjs.com/) 
  - Magnific Popup (http://dimsemenov.com/plugins/magnific-popup/)
